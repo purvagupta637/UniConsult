@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid gap-10 md:grid-cols-4">
           <div className="md:col-span-2">
             <div className="flex items-center gap-2">
-              <div className="h-10 w-10 rounded-xl bg-primary text-white grid place-items-center font-bold dark:bg-secondary">U</div>
+              <img src="/logo.png" alt="UniConsult Logo" className="h-40 w-40" />
               <div>
                 <p className="text-lg font-semibold text-ink dark:text-white">UniConsult</p>
                 <p className="text-sm text-slate-500 dark:text-slate-300">Management & Business Consulting</p>

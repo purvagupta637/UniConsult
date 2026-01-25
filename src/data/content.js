@@ -84,21 +84,21 @@ export const caseStudies = [
 ]
 
 export const teamMembers = [
-  { name: 'Alex Chen', role: 'Engagement Lead' },
-  { name: 'Priya Nair', role: 'Strategy & PMO' },
-  { name: 'Jordan Lee', role: 'Technology Architect' },
-  { name: 'Sara Martinez', role: 'Financial Analyst' },
-  { name: 'Ethan Brooks', role: 'Service Designer' },
-  { name: 'Lena Fischer', role: 'Data & AI' },
-  { name: 'Noah Patel', role: 'Change Management' },
-  { name: 'Mia Rossi', role: 'Industry Research' },
-  { name: 'David Kim', role: 'Client Success' },
+  { name: 'Purva Gupta', role: 'Partner' },
+  { name: 'Shraddha ', role: 'Partner' },
+  { name: 'Saksham Rauthan', role: 'Partner' },
+  { name: 'Abhijeet Raghav', role: 'Partner' },
+  { name: 'Mohit Kumar', role: 'Partner' },
+  { name: 'Anmol', role: 'Partner' },
+  { name: 'Richa Raj', role: 'Partner' },
+  { name: 'Tulika', role: 'Partner' },
+  { name: 'Sayak', role: 'Partner' },
 ]
 
 export const contactDetails = {
-  email: 'hello@uniconsult.co',
-  phone: '+1 (555) 123-4567',
-  address: '1200 Innovation Drive, Suite 240, Boston, MA',
+  email: 'uniconsult@gmail.com',
+  phone: '+91 9897772700',
+  address: 'Rajpur Road, Dehradun, Uttarakhand, India',
   socials: [
     { label: 'LinkedIn', href: 'https://www.linkedin.com' },
     { label: 'Twitter', href: 'https://twitter.com' },

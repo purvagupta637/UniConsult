@@ -16,7 +16,7 @@ const Navbar = () => {
     <header className="fixed inset-x-0 top-0 z-30 backdrop-blur bg-white/80 dark:bg-surface/80 border-b border-slate-200/70 dark:border-slate-800">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link to="/" className="flex items-center gap-2">
-          <div className="h-9 w-9 rounded-xl bg-primary/90 dark:bg-secondary/90 text-white grid place-items-center font-bold">U</div>
+          <img src="/logo.png" alt="UniConsult Logo" className="h-10 w-10" />
           <div>
             <p className="text-base font-semibold text-ink dark:text-white">UniConsult</p>
             <p className="text-xs text-slate-500 dark:text-slate-400">Management Consulting</p>
