@@ -96,6 +96,7 @@ export const teamMembers = [
 ]
 
 export const contactDetails = {
+  name: 'Purva Gupta',
   email: 'uniconsult@gmail.com',
   phone: '+91 9756378291',
   address: 'Rajpur Road, Dehradun, Uttarakhand, India',
