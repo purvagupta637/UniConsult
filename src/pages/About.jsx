@@ -55,7 +55,7 @@ const About = () => {
         <SectionHeader
           eyebrow="Team"
           title="Your nine-person engagement-ready team"
-          subtitle="Profiles are placeholders—swap in your classmates and credentials."
+          
         />
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {teamMembers.map((member) => (
