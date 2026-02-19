@@ -17,7 +17,7 @@ const TeamCard = ({ member }) => {
         <p className="text-lg font-semibold text-ink dark:text-white">{member.name}</p>
         <p className="text-sm text-slate-600 dark:text-slate-300">{member.role}</p>
       </div>
-      <p className="text-xs text-slate-500 dark:text-slate-400">Client-facing consultant placeholder. Add bio and credentials.</p>
+      <p className="text-xs text-slate-500 dark:text-slate-400"></p>
     </motion.div>
   )
 }
