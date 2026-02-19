@@ -97,7 +97,7 @@ export const teamMembers = [
 
 export const contactDetails = {
   email: 'uniconsult@gmail.com',
-  phone: '+91 9897772700',
+  phone: '+91 9756378291',
   address: 'Rajpur Road, Dehradun, Uttarakhand, India',
   socials: [
     { label: 'LinkedIn', href: 'https://www.linkedin.com' },
