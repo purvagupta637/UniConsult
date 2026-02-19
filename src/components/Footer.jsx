@@ -31,6 +31,7 @@ const Footer = () => {
           <div>
             <h4 className="text-sm font-semibold text-ink dark:text-white">Contact</h4>
             <div className="mt-3 flex flex-col gap-2 text-sm text-slate-600 dark:text-slate-300">
+              <p>Purva Gupta</p>
               <span>{contactDetails.email}</span>
               <span>{contactDetails.phone}</span>
               <span>{contactDetails.address}</span>
