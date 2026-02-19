@@ -15,7 +15,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="mt-4 max-w-xl text-sm text-slate-600 dark:text-slate-300">
-              We help leadership teams translate ambition into execution across strategy, technology, finance, and the public sector. Practical, data-driven, and collaborative.
+              We help leadership teams translate ambition into execution across strategy, technology, finance, and the public sector with practical, data-driven, and collaborative approach.
             </p>
           </div>
           <div>
