@@ -162,7 +162,7 @@ const Hero = () => {
                 to="/contact"
                 className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-semibold text-primary shadow-lg transition hover:-translate-y-0.5"
               >
-                Book a consultation <ArrowRight size={16} />
+                Book a meeting <ArrowRight size={16} />
               </Link>
               <Link
                 to="/services"
