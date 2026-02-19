@@ -60,7 +60,7 @@ const Home = () => {
             />
             <div className="grid gap-3">
               {[
-                'Senior-only leads from day one, supported by analysts for research and modeling',
+                'Experienced-only leads from day one, supported by analysts for research and modeling',
                 'Integrated viewpoints across strategy, product, finance, and change management',
                 'Clear governance, OKRs, and benefits tracking to keep momentum visible',
               ].map((item) => (
