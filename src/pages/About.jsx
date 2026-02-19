@@ -41,12 +41,12 @@ const About = () => {
         />
         <div className="grid gap-6 md:grid-cols-2">
           <Card
-            title="Mission"
-            content="Equip organizations to make confident strategic moves and deliver them with discipline, transparency, and care for people."
-          />
-          <Card
             title="Vision"
-            content="A trusted partner for leaders who expect consulting teams to own outcomes, build capability, and leave lasting operating rhythms."
+            content="We visualize Unconsult to be recognized as a trusted global consulting partner driving resilient, ethical, and technology-led transformation."
+          />
+           <Card
+            title="Mission"
+            content="The mission of Unconsult to assist the  organizations in finance, Marketing & Human Resource sectors to solve complex challenges by delivering research-driven insights, secure digital solutions, and sustainable strategies that create long-term value for society."
           />
         </div>
       </section>
